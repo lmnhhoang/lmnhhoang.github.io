@@ -10,10 +10,6 @@ the last 3 years focused on Java, Spring Boot / Spring MVC, building on 6+ years
 PHP full-stack engineering. Experienced in RESTful API design, database and transaction
 optimization, and cloud-native solutions on AWS.
 
-✉ [mnhhoang30797@gmail.com](mailto:mnhhoang30797@gmail.com)
-
-**Certifications:** AWS Certified Solutions Architect – Professional (2025) · AWS Certified Developer – Associate (2025)
-
 ---
 
 ## Project Portfolio
