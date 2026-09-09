@@ -1,0 +1,22 @@
+title: Le Minh Hoang — Java Backend Developer
+description: >-
+  Java Backend Developer with 8+ years in professional web/backend development.
+  Spring Boot, RESTful APIs, AWS cloud-native solutions.
+author: Le Minh Hoang
+email: mnhhoang30797@gmail.com
+
+# Theme bundled with GitHub Pages — no local build needed
+theme: minima
+
+# Show the portfolio index as the landing page
+show_excerpts: false
+
+# minima footer / social links (optional — fill in when ready)
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/" }
+
+# Build settings
+markdown: kramdown
+exclude:
+  - README.md
