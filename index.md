@@ -27,7 +27,7 @@ Accident control and support system in the insurance domain, serving multiple cl
 - Ran inspection pipelines for each client system on weekly and quarterly schedules
 - Analyzed issues surfaced after each pipeline run and generated reports
 
-**Technologies:** Docker, DynamoDB, Cypress, Jenkins
+**Technologies:** Java, Spring Framework, Docker, DynamoDB, Cypress, Jenkins
 
 **Team size:** 30+ members
 
