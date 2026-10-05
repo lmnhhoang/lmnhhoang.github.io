@@ -6,8 +6,8 @@ title: Home
 # Lê Minh Hoàng — Java Backend Developer
 
 Software developer since 2017 with 8+ years in professional web/backend development —
-the last 3 years focused on Java, Spring Boot / Spring MVC, building on 6+ years of
-PHP full-stack engineering. Experienced in RESTful API design, database and transaction
+including 5 years focused on Java, Spring Boot / Spring MVC and 4 years of PHP
+full-stack engineering. Experienced in RESTful API design, database and transaction
 optimization, and cloud-native solutions on AWS.
 
 ---
