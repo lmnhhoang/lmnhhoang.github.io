@@ -17,7 +17,7 @@ optimization, and cloud-native solutions on AWS.
 _Detailed descriptions of the projects I have worked on. Ordered chronologically, most recent first._
 
 ### 1. Japan Insurance System
-**Role:** Automation Tester · **Company:** VMO Holdings · **Timeline:** 2024 – Present
+**Role:** Backend Java Developer + Automation Tester · **Company:** VMO Holdings · **Timeline:** 2024 – Present
 
 Accident control and support system in the insurance domain, serving multiple clients on shared testing infrastructure.
 
@@ -28,6 +28,8 @@ Accident control and support system in the insurance domain, serving multiple cl
 - Analyzed issues surfaced after each pipeline run and generated reports
 
 **Technologies:** Docker, DynamoDB, Cypress, Jenkins
+
+**Team size:** 30+ members
 
 ---
 
@@ -43,6 +45,8 @@ Maintained and enhanced a factory data management system.
 
 **Technologies:** Java, Spring Framework, Oracle, GraphQL, AWS Lambda, AWS SAM, AWS SQS
 
+**Team size:** 10-15 members
+
 ---
 
 ### 3. Healthcare Member Management System
@@ -56,10 +60,12 @@ Developed a member and service management system for a healthcare service chain.
 
 **Technologies:** Java, Spring MVC, Spring Thymeleaf, MariaDB, PHP
 
+**Team size:** 15-20 members
+
 ---
 
 ### 4. Hospital ERP System
-**Role:** Backend Java Developer · **Company:** VMO Holdings · **Timeline:** 2023 – 2024
+**Role:** Backend Java Developer · **Company:** VMO Holdings · **Timeline:** 2022 – 2023
 
 Built a hospital management system for asset and staff administration.
 
@@ -69,10 +75,26 @@ Built a hospital management system for asset and staff administration.
 
 **Technologies:** Java, Spring MVC, SQL Server, JSF
 
+**Team size:** 10 members
+
 ---
 
-### 5. NBDesigner Product
-**Role:** Backend Developer / Quality Assurance · **Company:** Netbase CMSmart · **Timeline:** 2017 – 2023
+### 5. Real Estate Renting Management System
+**Role:** Backend Developer · **Company:** VMO Holdings · **Timeline:** 2021 – 2022
+
+A house renting management system.
+
+- Maintained and improved core modules
+- Developed and fixed features, ensuring system stability
+
+**Technologies:** PHP Laravel, Java, PostgreSQL
+
+**Team size:** 5-10 members
+
+---
+
+### 6. NBDesigner Product
+**Role:** Backend Developer / Quality Assurance · **Company:** Netbase CMSmart · **Timeline:** 2017 – 2021
 
 An online design product for the print-on-demand industry, integrated across multiple e-commerce platforms (WooCommerce, Shopify, Magento).
 
@@ -82,3 +104,5 @@ An online design product for the print-on-demand industry, integrated across mul
 - Supported system operation and continuous improvement in customer environments
 
 **Technologies:** PHP, Zend Framework, Laravel, Angular
+
+**Team size:** 5-10 members
